@@ -1,6 +1,7 @@
 # auth-slack-apis
 Simple script to try and authenticate against various slack APIs using authentication token
-The script asks the user to input an authentication token and checks if it can authenticate against the following endpoints.
+The script asks the user to input an authentication token and checks if it can authenticate against the following endpoints.  
+  
     "auth.test",  
     "rtm.start",  
     "users.list",  
